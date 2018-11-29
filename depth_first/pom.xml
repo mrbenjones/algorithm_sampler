@@ -4,6 +4,16 @@
 
   <groupId>com.bluefiddleguy.learning</groupId>
   <artifactId>depth-first</artifactId>
-  <version>0.0.0-CONFIG</version>
+  <version>0.0.1-CONFIG</version>
+
+  <packaging>jar</packaging>
+
+  <!-- define how the build is made  -->
+  <properties>
+    <maven.compiler.source>1.10</maven.compiler.source>
+    <maven.compiler.target>1.10</maven.compiler.target>    
+  </properties>
+
+  
   
 </project>
